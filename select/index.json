@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最高潮☆JUMPING!",
+  "base_artist": "高田ちゃん（CV.黒沢ともよ）",
+  "createdAt": "2026-02-16T08:12:40.725116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最高潮☆JUMPING!",
+      "artist": "高田ちゃん(CV.黒沢ともよ)",
+      "has_synced": false,
+      "path": "select/pl_01_最高潮☆JUMPING!_高田ちゃん(CV.黒沢ともよ).txt"
+    }
+  ]
+}
